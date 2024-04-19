@@ -25,3 +25,6 @@ Dodash is a sleek and intuitive to-do list application designed to help you stay
 
 ## Get Started
 Download Dodash today and take control of your tasks like never before!
+
+&copy; Ronny Ebnoether
+
