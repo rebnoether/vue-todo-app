@@ -3,6 +3,8 @@
 ## Overview
 Dodash is a sleek and intuitive to-do list application designed to help you stay organized and productive. With its user-friendly interface and robust features, managing your tasks has never been easier.
 
+![App Preview](./Todolist.png)
+
 ## Features
 - **Task Management:** Create, edit, and delete tasks effortlessly.
 - **Prioritization:** Assign priority levels to tasks to focus on what matters most.
